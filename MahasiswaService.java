@@ -1,6 +1,5 @@
 import java.util.ArrayList;
 import java.util.List;
-import model.Mahasiswa;   // import class Mahasiswa dari package model
 
 public class MahasiswaService {
     private List <Mahasiswa> daftarMahasiswa;
